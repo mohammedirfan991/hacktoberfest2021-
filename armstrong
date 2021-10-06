@@ -14,8 +14,8 @@ using System;
         n=n/10;      
        }      
        if(temp==sum)      
-        Console.Write("Armstrong Number.");      
+        Console.write("Armstrong Number.");      
        else      
-        Console.Write("Not Armstrong Number.");      
+        Console.write("Not Armstrong Number.");      
       }  
   }  
